@@ -1,0 +1,15 @@
+<svg id="Backpack" xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Backpack-Body" class="cls-1" d="M216,120s11.377-13,25-13h99c16.411,0,27,16,27,16s9,11.807,9,25V314H204V147C204,132.078,216,120,216,120Zm5,28s2.414-11.725,7-15c5.3-3.785,8.577-8,15-8h93c9.87,0,17,9,17,9s6.031,6.158,6.082,14.662C359.321,188.543,359,297,359,297H221V148Z" transform="translate(-170 -73.5)"/>
+  <path id="Right-Poclet" class="cls-1" d="M371,228h15a25,25,0,0,1,25,25v36a25,25,0,0,1-25,25H371V228Zm6,17h9s6.8,3.028,7,10c0.438,15.354,1.333,32.667,0,36s-4.14,6-8.333,6H377V245Z" transform="translate(-170 -73.5)"/>
+  <path id="Left-Poclet" class="cls-1" d="M194,228h11v86H194a25,25,0,0,1-25-25V253A25,25,0,0,1,194,228Zm9,17h-9s-6.8,3.028-7,10c-0.438,15.354-1.333,32.667,0,36s4.14,6,8.333,6H203V245Z" transform="translate(-170 -73.5)"/>
+  <path id="Front-Flap" class="cls-1" d="M238,123H343v43a28,28,0,0,1-28,28H265a27,27,0,0,1-27-27V123Zm18,2h68v42c0,10.053-9,9-9,9H264s-8-3.072-8-9V125Z" transform="translate(-170 -73.5)"/>
+  <path id="Front-Flap-2" data-name="Front-Flap" class="cls-1" d="M255,112h69.7L325,97.058C325,87.637,314.881,73,304.867,73H274.486C264.829,73,255,87.364,255,96.448V112Zm19-5h32s0.975-3.013,0-10c-0.75-5.374-7-7-7-7H279s-4.75,1.889-5,7A70.03,70.03,0,0,0,274,107Z" transform="translate(-170 -73.5)"/>
+  <rect id="Front-Zipper" x="93" y="162.5" width="53" height="18" rx="9" ry="9"/>
+</svg>
