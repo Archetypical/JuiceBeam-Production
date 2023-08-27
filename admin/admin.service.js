@@ -135,9 +135,9 @@ async function settingsInit(next) {
   const model = {
     playlistId: "undefined",
     eventsMode: "play",
-    youtubeApiKey: "AIzaSyDd00svP4R32-MEcV8uP-iSdwjLvu20iA4", //defined by api manager
-    twitchClientId: "2ycvvf2zsvwyvso2b8q9i9mjajs9yd", //defined by api manager
-    twitchClientSecret: "90780h0gm017viv4i1ejd678da2s2o", //defined by api manager
+    youtubeApiKey: "undefined", //defined by api manager
+    twitchClientId: "undefined", //defined by api manager
+    twitchClientSecret: "undefined", //defined by api manager
     twitchName: "undefined",
     channelName: "undefined",
     channelId: "undefined",
