@@ -39,7 +39,7 @@ Once the owner has entered a valid Youtube data API key, they can change the You
 
 # Administrator Panel 
 
-The administrator panel can be accessed by logging into a Juicebeam account that has their role designated as administrator. To access it after logging all they have to do is add "/admin" to the end of the sites home page url. 
+The administrator panel can be accessed by logging into a Juicebeam account that has their role designated as administrator. To access it after logging in, all they have to do is add "/admin" to the end of the sites home page url. 
 
 API:
 The administrator can change the api keys and secrets needed to for the site to function from the panel.
