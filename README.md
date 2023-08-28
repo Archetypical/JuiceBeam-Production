@@ -46,3 +46,22 @@ The administrator can change the api keys and secrets needed to for the site to 
 
 Management:
 Through the administrator panel, the owner of the site can modify user data on the fly as well as view and update the Youtube video data stored in the database.
+
+# Running the Project
+
+First the user must use download the repository using the following command in the preferred folder:
+
+```
+git clone https://github.com/Archetypical/JuiceBeam-Production.git
+```
+
+Next the user must install the dependencies with the command:
+
+```
+npm install
+```
+
+Finally the user can start the project with the command:
+```
+npm start
+```
