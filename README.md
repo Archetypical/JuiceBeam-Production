@@ -49,6 +49,9 @@ Through the administrator panel, the owner of the site can modify user data on t
 
 # Running the Project
 
+Before attempting to run the project node.js and a MySQL server must already be running on the system.
+The database information can be altered in the config.json file.
+
 First the user must use download the repository using the following command in the preferred folder:
 
 ```
